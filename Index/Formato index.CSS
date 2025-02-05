@@ -1,0 +1,24 @@
+#Contenedor{background-color:#222860;border:2px solid #051ffa;}
+#Cuerpo{background-color:#2785b8;height:10%;}
+fieldset{background-color:#3176a4 ;border:2px solid;}
+#Izquierda{height:30%; background-color:#a51a1a;float:left;width:20%;}
+#Derecha{height:30%; background-color:#edf71c;float:right;width:80%;Font-family:Georgia;color:#ff0000;font-size:25px;}
+#Cuerpo2{background-color:#05b5c0;height:100%;}
+a:hover{color:blue}
+Pie{ height:40%;background-color:#bee6ff;clear:both;}
+#nav{height:10%; background-color:#C8CACC;}
+#Derecha1{height:30%; background-color:#FFD700;float:right;width:80%;Font-family:Georgia;color:#f05454;font-size:25px;}
+#Izquierda1{height:30%; background-color:#f05454;float:left;width:20%;}
+#Derecha2{height:30%; background-color:#CD7F32;float:right;width:80%;Font-family:Georgia;color:#050000;font-size:25px;}
+#Izquierda2{height:30%; background-color:#1c68f7;float:left;width:20%;}
+#Izquierda3{height:30%; background-color:#4bdf54;float:left;width:20%;}
+#Derecha3{height:30%; background-color:#BEBEBE;float:right;width:80%;Font-family:Georgia;color:#008e1e;font-size:25px;}
+#Izquierda4{height:30%; background-color:#f8fa43;float:left;width:20%;}
+#Derecha4{height:30%; background-color:#050504;float:right;width:80%;Font-family:Georgia;color:#f9f901;font-size:25px;}
+#Izquierda5{height:20%; background-color:#505051;float:left;width:20%;}
+#Derecha5{height:20%; background-color:#004d16;float:right;width:80%;Font-family:Georgia;color:#f9f901;font-size:25px;}
+#Pie2{ height:40%;background-color:#bee6ff;clear:both;}
+#Izquierda6{height:30%; background-color:#a51a1a;float:left;width:20%;}
+#Derecha6{height:30%; background-color:#edf71c;float:right;width:80%;Font-family:Georgia;color:#000000;font-size:25px;}
+P{color:#f85b56; font-famili:Georgian;font-size:25px;}
+
